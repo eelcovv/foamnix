@@ -1,0 +1,10 @@
+/result
+/.direnv
+.vscode
+*.qcow2
+/result*
+elixos.bundle
+.tmux.conf
+install.log
+*.tar.?z
+nix-*
